@@ -7,13 +7,13 @@
 3.	Demonstração:
   	  Inicialmente o programa irá solicitar os itens que você gostaria de incluir no orçamento.
   	
-    	  ![image](https://github.com/user-attachments/assets/368f3117-1c6a-4b66-857a-a6d596d14ca6)
+    ![image](https://github.com/user-attachments/assets/368f3117-1c6a-4b66-857a-a6d596d14ca6)
   	
-          Ao inserir a seguinte entrada no terminal: “Gostaria de dois sacos de cimento, 50 tijolos e 2 metros de fio”
+     Ao inserir a seguinte entrada no terminal: “Gostaria de dois sacos de cimento, 50 tijolos e 2 metros de fio”
   	
-    	  O programa deve responder da seguinte maneira: ![image](https://github.com/user-attachments/assets/ce5d0fc9-7704-4e52-b71d-6ea5ddf7e694)
+     O programa deve responder da seguinte maneira: ![image](https://github.com/user-attachments/assets/ce5d0fc9-7704-4e52-b71d-6ea5ddf7e694)
   	
-          Caso sejam inseridos itens que fujam do escopo do projeto, o programa irá avisar que o item não está disponível e esse item será desconsiderado.
+     Caso sejam inseridos itens que fujam do escopo do projeto, o programa irá avisar que o item não está disponível e esse item será desconsiderado.
 5.  Funcionalidades principais:
       Implementa um modelo para a construção de orçamentos
       Formata uma lista dos itens solicitados
