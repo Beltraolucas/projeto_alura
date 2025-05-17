@@ -29,17 +29,17 @@
 8.	Como Usar:
       Ao executar todas as células do programa no Google Colab, será solicitado uma entrada no prompt abaixo da última célula.
       Digite de maneira sucinta e objetiva os itens que você gostaria que fossem incluídos no orçamento e o programa fará o resto.
-9.	Avaliação e Resultados
+9.	Avaliação e Resultados:
       De maneira geral o projeto apresentou resultados satisfatórios.
       A maior inconsistência é em relação a apresentação do resultado estruturado como tabela.
   	  Quanto mais itens solicitados, de uma só vez, mais comum é de o modelo não estruturar o resultado da maneira solicitada.
   	  Por isso recomendaria solicitar até quatro itens diferentes por vez.
-10.	Próximos passos
+10.	Próximos passos:
       Aplicar no código uma metodologia que torne a estruturação de resultados mais consistente.
       Incluir uma base de dados mais complexa para a aplicação desejada, incluindo os itens disponíveis para venda.
 11.	Licença:
        MIT License   
-12.	Autor
+12.	Autor:
       Lucas Beltrão Santana
 
 
